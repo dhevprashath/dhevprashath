@@ -86,11 +86,12 @@ Building innovative solutions through code and creativity
 
 ## 📫 Connect with Me  
 - [GitHub](https://github.com/dhevprashath)  
-- Email: **youremail@example.com** *(update with your real email)*  
+- Email: **dhevprashath25@gmail.com**   
 
 ---
 
 💬 **Quote I Live By**  
-*"Code is like humor. When you have to explain it, it’s bad."* — Cory House  
+**"If at first you don’t succeed; call it version 1.0."**
+
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.  
